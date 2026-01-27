@@ -196,6 +196,11 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parampatel14&theme=radical" alt="Repos Per Language" />
 </p>
 
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ---
