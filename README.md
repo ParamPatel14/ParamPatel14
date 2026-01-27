@@ -13,7 +13,6 @@
 ```
 <br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/40/1c/ef/401cef74bef9dfc60951530ab37c6457.gif" width="500" alt="Cool Animation"/>
 </div>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;CLINICAL+AI+SYSTEMS+OPERATIONAL;FULL+STACK+PROTOCOLS+ACTIVE;SAFETY+AWARE+ARCHITECTURES+LOADING...;PRODUCTION+AI+DEPLOYED" alt="System Status" />
@@ -30,9 +29,8 @@
 Current Mission: Building Safe Clinical AI & Scalable Systems
 Status: [ ACTIVE ]
 Location: India 🇮🇳
-University: PES University
-Specialization: AI-ML + Full Stack + Clinical Systems
-Rank: CodeChef 2★ (Rating ~1595)
+University: New Horizon College Of Engineering
+Specialization: AI-ML + Full Stack
 ```
 
 <div align="center">
@@ -152,26 +150,6 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 ---
 
-## 🎵 CURRENTLY VIBING TO 🎵
-
-<div align="center">
-
-<p align="center">
-<b>🎧 What I'm Listening To</b><br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="500" alt="Cool Animation"/>
-</div>
-</p>
-
-<br>
-
-<p align="center">
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
-<img src="https://img.shields.io/badge/🎵%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
-</a>
-</p>
-
-</div>
 
 ---
 
@@ -183,7 +161,7 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 + 1ST PRIZE: Docathon 2025 (AI Clinical Decision System)
 + TOP 10 FINALIST: Confluence 2025 (IEEE CS PESU)
 + FREELANCE ML DEV: Sushi Passion UK (92% Accuracy System)
-+ CODECHEF: 2★ Rating (~1595) | 150+ DSA Problems Solved
++ 150+ DSA Problems Solved
 + CERTIFIED: Data Science (IIT Madras) & Google IT Automation
 + MENTOR: Guided 100+ students to IIT success
 ```
