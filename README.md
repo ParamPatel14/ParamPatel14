@@ -13,6 +13,7 @@
 ```
 <br>
 <div align="center">
+  <img src="https://i.pinimg.com/originals/40/1c/ef/401cef74bef9dfc60951530ab37c6457.gif" width="500" alt="Cool Animation"/>
 </div>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;CLINICAL+AI+SYSTEMS+OPERATIONAL;FULL+STACK+PROTOCOLS+ACTIVE;SAFETY+AWARE+ARCHITECTURES+LOADING...;PRODUCTION+AI+DEPLOYED" alt="System Status" />
@@ -29,28 +30,41 @@
 Current Mission: Building Safe Clinical AI & Scalable Systems
 Status: [ ACTIVE ]
 Location: India 🇮🇳
-University: New Horizon College Of Engineering
-Specialization: AI-ML + Full Stack
+University: PES University
+Specialization: AI-ML + Full Stack + Clinical Systems
+Rank: CodeChef 2★ (Rating ~1595)
 ```
 
 <div align="center">
 
-### 🚀 CORE SYSTEMS ACTIVE 🚀
+### 🚀 CORE ARSENAL DEPLOYED 🚀
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,express,mysql,postgresql,tensorflow,pytorch,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,django,fastapi,express,nodejs,nestjs,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,aws,docker,kubernetes,git,linux,tensorflow,pytorch,sklearn,pandas,numpy,opencv,arduino&theme=dark&perline=14" />
 
 <br><br>
 
-**More Tech Arsenal:**
-<p>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Crew_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Crew AI"/>
-<img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="NeonDB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED 🏆
+
+<div align="center">
+
+| 🏅 **AWARD** | 🏆 **EVENT** | 📅 **DETAILS** |
+|:---:|:---:|:---|
+| **🥇 1st Prize** | **Docathon 2025** | Built an **AI Clinical Decision Support System** with real-world doctor collaboration. |
+| **🎖️ Top 10** | **Confluence 2025** | Recognized for technical innovation at **IEEE CS PESU**. |
+| **💼 Freelance** | **Sushi Passion UK** | Deployed **92% Accuracy Sentiment Analysis System** for 1500+ reviews. |
+| **⭐ 2★ Coder** | **CodeChef** | **Rating 1595** | Solved **150+ DSA Problems** (Data Structures & Algorithms). |
+
+<br>
+
+<p align="center">
+<b>🎖️ Certified Elite</b><br><br>
+<img src="https://img.shields.io/badge/IIT_Madras-Data_Science-800000?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Madras"/>
+<img src="https://img.shields.io/badge/Google-IT_Automation-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+<img src="https://img.shields.io/badge/Crew_AI-Multi_Agent_Systems-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Crew AI"/>
 </p>
 
 </div>
@@ -101,28 +115,13 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 ---
 
-## ⚡ WHEN I CODE FOR FUN I USE ALL OF THESE ⚡
-
-<div align="center">
-
-| 🧠 **AI/ML CORE** | 🛠️ **BACKEND** | ☁️ **CLOUD & DB** | 🌐 **WEB SYSTEMS** |
-|:-----------------:|:-----------------:|:-------------------:|:------------------:|
-| TensorFlow | FastAPI | AWS/Cloud | React.js |
-| PyTorch | Django | PostgreSQL | TypeScript |
-| Crew AI | Express.js | NeonDB | Next.js |
-| Scikit-Learn | Node.js | MySQL | Tailwind |
-
-</div>
-
----
-
 <div align="center">
 
 ## 📊 PERFORMANCE METRICS
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parampatel14&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parampatel14&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parampatel14&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&hide=jupyter%20notebook&hide_border=true"/>
 </p>
 
 <br>
@@ -150,58 +149,23 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 ---
 
-
----
-
-## 🏆 ACHIEVEMENTS SO FAR 🏆
+## � CURRENTLY VIBING TO �
 
 <div align="center">
 
-```diff
-+ 1ST PRIZE: Docathon 2025 (AI Clinical Decision System)
-+ TOP 10 FINALIST: Confluence 2025 (IEEE CS PESU)
-+ FREELANCE ML DEV: Sushi Passion UK (92% Accuracy System)
-+ 150+ DSA Problems Solved
-+ CERTIFIED: Data Science (IIT Madras) & Google IT Automation
-+ MENTOR: Guided 100+ students to IIT success
-```
-
-<br>
-
 <p align="center">
-<b>🎖️ Certifications & Badges</b><br><br>
-<img src="https://img.shields.io/badge/IIT_Madras-Data_Science-800000?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Madras"/>
-<img src="https://img.shields.io/badge/Google-IT_Automation-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
-<img src="https://img.shields.io/badge/Crew_AI-Certified-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Crew AI"/>
-<img src="https://img.shields.io/badge/CodeChef-1595_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</p>
-
+<b>🎧 What I'm Listening To</b><br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="500" alt="Cool Animation"/>
 </div>
-
----
-
-## 📈 CODING ANALYTICS
-
-<div align="center">
-
-<p align="center">
-<b>📅 Contribution Calendar</b><br><br>
-<img src="https://ghchart.rshah.org/00ff41/parampatel14" alt="Contribution Calendar" />
 </p>
 
 <br>
 
 <p align="center">
-<b>🔍 Profile Summary</b><br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parampatel14&theme=radical" alt="Profile Summary" />
-</p>
-
-<br>
-
-<p align="center">
-<b>💻 Coding Time Distribution</b><br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parampatel14&theme=radical" alt="Most Used Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parampatel14&theme=radical" alt="Repos Per Language" />
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
+<img src="https://img.shields.io/badge/🎵%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+</a>
 </p>
 
 </div>
@@ -221,6 +185,9 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 </a>
 <a href="https://leetcode.com/u/fauhk9bsyn/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="mailto:parampatel14@gmail.com">
+<img src="https://img.shields.io/badge/Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
