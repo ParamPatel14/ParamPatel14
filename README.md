@@ -11,10 +11,7 @@
 ║      ⚡ NEXT-GEN DEVELOPER • AI & HEALTHCARE TECH LEADER ⚡  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-<br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/40/1c/ef/401cef74bef9dfc60951530ab37c6457.gif" width="500" alt="Cool Animation"/>
-</div>
+
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=400&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=NEURAL+NETWORK+INITIALIZED...;CLINICAL+AI+SYSTEMS+OPERATIONAL;FULL+STACK+PROTOCOLS+ACTIVE;SAFETY+AWARE+ARCHITECTURES+LOADING...;PRODUCTION+AI+DEPLOYED" alt="System Status" />
 
@@ -30,9 +27,8 @@
 Current Mission: Building Safe Clinical AI & Scalable Systems
 Status: [ ACTIVE ]
 Location: India 🇮🇳
-University: PES University
+University: New Horizon College Of Engineering
 Specialization: AI-ML + Full Stack + Clinical Systems
-Rank: CodeChef 2★ (Rating ~1595)
 ```
 
 <div align="center">
@@ -42,6 +38,18 @@ Rank: CodeChef 2★ (Rating ~1595)
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,django,fastapi,express,nodejs,nestjs,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,aws,docker,kubernetes,git,linux,tensorflow,pytorch,sklearn,pandas,numpy,opencv,arduino&theme=dark&perline=14" />
 
 <br><br>
+
+**More Tech Arsenal:**
+<p>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 </div>
 
@@ -56,7 +64,7 @@ Rank: CodeChef 2★ (Rating ~1595)
 | **🥇 1st Prize** | **Docathon 2025** | Built an **AI Clinical Decision Support System** with real-world doctor collaboration. |
 | **🎖️ Top 10** | **Confluence 2025** | Recognized for technical innovation at **IEEE CS PESU**. |
 | **💼 Freelance** | **Sushi Passion UK** | Deployed **92% Accuracy Sentiment Analysis System** for 1500+ reviews. |
-| **⭐ 2★ Coder** | **CodeChef** | **Rating 1595** | Solved **150+ DSA Problems** (Data Structures & Algorithms). |
+| **⭐ Solved **150+ DSA Problems** (Data Structures & Algorithms). |
 
 <br>
 
@@ -115,6 +123,21 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 ---
 
+## ⚡ WHEN I CODE FOR FUN I USE ALL OF THESE ⚡
+
+<div align="center">
+
+| 🧠 **AI/ML CORE** | 🔌 **BACKEND & DB** | ☁️ **CLOUD MATRIX** | 🌐 **WEB SYSTEMS** |
+|:-----------------:|:-----------------:|:-------------------:|:------------------:|
+| TensorFlow | Django | AWS | React.js |
+| PyTorch | FastAPI | Docker | Next.js |
+| Scikit-learn | PostgreSQL | Kubernetes | Node.js |
+| OpenCV | MongoDB | CI/CD | Express.js |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📊 PERFORMANCE METRICS
@@ -149,23 +172,28 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 ---
 
-## � CURRENTLY VIBING TO �
+## 📈 CODING ANALYTICS
 
 <div align="center">
 
 <p align="center">
-<b>🎧 What I'm Listening To</b><br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ed/f8/e9/edf8e9869b6bdd409e53ec96b785fe6d.gif" width="500" alt="Cool Animation"/>
-</div>
+<b>📅 Contribution Calendar</b><br><br>
+<img src="https://ghchart.rshah.org/00ff41/parampatel14" alt="Contribution Calendar" />
 </p>
 
 <br>
 
 <p align="center">
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
-<img src="https://img.shields.io/badge/🎵%20My%20Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
-</a>
+<b>🔍 Profile Summary</b><br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parampatel14&theme=radical" alt="Profile Summary" />
+</p>
+
+<br>
+
+<p align="center">
+<b>💻 Coding Time Distribution</b><br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parampatel14&theme=radical" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parampatel14&theme=radical" alt="Repos Per Language" />
 </p>
 
 </div>
@@ -252,6 +280,6 @@ Status: [Live] 100% | FULL STACK IMPLEMENTATION
 
 **⚠️ DEVELOPER NOTICE:** *Wanna know more about what my coding projects look like? Follow me on socials --> meet you all there!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=60&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00ff41,00ffff&height=60&section=footer&reversal=true" width="100%" />
 
 </div>
